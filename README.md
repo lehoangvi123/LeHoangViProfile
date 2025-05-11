@@ -42,7 +42,7 @@ Welcome to my GitHub! I'm Vĩ, a passionate software engineer with a strong focu
 </p>
 
 
-## 🚀 Projects
+## 🚀 Projects 
 
 ### 1. **[Music Application]**
    - **Description:** A brief description of your project.
@@ -80,10 +80,10 @@ Currently exploring:
 ## 📬 Connect with Me
 
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- 📧 Email: [vithen01@gmail.com](mailto:vithen01@gmail.com)
-- 📘 Facebook: [facebook.com/your-profile](https://www.facebook.com/your-profile)
+- 📧 Email: [lehoangvi.work@gmail.com](mailto:lehoangvi.work@gmail.com)
+- 📘 Facebook: [facebook.com/lehoangvi.1508](https://www.facebook.com/lehoangvi.1508) 
 - 💻 GitHub: [github.com/vithen01](https://github.com/vithen01)
-- 🌐 Personal Website / Portfolio: [yourwebsite.com](https://yourwebsite.com) *(optional)*
+- 🌐 Personal Website / Portfolio: [yourwebsite.com](https://yourwebsite.com) *(optional)* 
 
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate!
