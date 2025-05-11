@@ -44,19 +44,24 @@ Welcome to my GitHub! I'm Vĩ, a passionate software engineer with a strong focu
 
 ## 🚀 Projects
 
-### 1. **[Project Name 1]**
+### 1. **[Music Application]**
    - **Description:** A brief description of your project.
    - **Tech Stack:** Node.js, MongoDB, React
    - **Link:** [Project Demo/Repo Link](#)
 
-### 2. **[Project Name 2]**
+### 2. **[MERN Employee Management System]**
    - **Description:** Another project description.
    - **Tech Stack:** Spring Boot, PostgreSQL, JavaScript
    - **Link:** [Project Demo/Repo Link](#)
 
-### 3. **[Project Name 3]**
+### 3. **[2048 Game]**
    - **Description:** Another cool project you're working on.
-   - **Tech Stack:** Python, Django, MySQL
+   - **Tech Stack:** Java
+   - **Link:** [Project Demo/Repo Link](#)
+
+### 3. **[Candy Crush Saga ]**
+   - **Description:** Another cool project you're working on.
+   - **Tech Stack:** Java
    - **Link:** [Project Demo/Repo Link](#)
 
 ## 📚 Learning & Development
@@ -64,7 +69,7 @@ Welcome to my GitHub! I'm Vĩ, a passionate software engineer with a strong focu
 Currently exploring:
 - **Flutter:** Building cross-platform mobile apps
 - **AI/ML:** Getting started with machine learning models
-- **Kotlin, Swift**: Getting started with specified mobile-app developer like IOS and Android
+- **Kotlin, Swift**: Getting started with specified mobile-app developer like IOS and Android 
 
 ## 🌱 I'm Currently Focused On
 
@@ -74,8 +79,11 @@ Currently exploring:
 
 ## 📬 Connect with Me
 
-- LinkedIn: [My LinkedIn](#)
-- Email: [vithen01@gmail.com](mailto:vithen01@gmail.com)
-- Twitter: [@vithen01](https://twitter.com/vithen01)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- 📧 Email: [vithen01@gmail.com](mailto:vithen01@gmail.com)
+- 📘 Facebook: [facebook.com/your-profile](https://www.facebook.com/your-profile)
+- 💻 GitHub: [github.com/vithen01](https://github.com/vithen01)
+- 🌐 Personal Website / Portfolio: [yourwebsite.com](https://yourwebsite.com) *(optional)*
+
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate!
