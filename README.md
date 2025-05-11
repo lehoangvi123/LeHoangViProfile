@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm Vĩ, a passionate software engineer with a strong focu
 
 - **Frontend:**
   - HTML, CSS, JavaScript (ES6+)
-  - React.js, Angular
+  - React.js, Bootstrap
   - Responsive Web Design
 
 - **Backend:**
@@ -16,18 +16,17 @@ Welcome to my GitHub! I'm Vĩ, a passionate software engineer with a strong focu
   - MongoDB, PostgreSQL, MySQL
 
 - **DevOps:**
-  - Docker, Kubernetes
-  - CI/CD pipelines (GitHub Actions, Jenkins)
+  - Docker
+  - CI/CD pipelines (GitHub Actions)
 
 - **Tools:**
-  - Postman, Swagger
+  - Postman
   - Git, GitHub, GitLab
   - Visual Studio Code, IntelliJ IDEA
 
 - **Other:**
   - RESTful API development
   - Microservices architecture
-  - Agile methodology
  
 ### 🛠️ Tech I work on:
 
