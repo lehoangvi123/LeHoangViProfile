@@ -62,9 +62,9 @@ Welcome to my GitHub! I'm Vĩ, a passionate software engineer with a strong focu
 ## 📚 Learning & Development
 
 Currently exploring:
-- **Flutter:** Building cross-platform mobile apps.
-- **Cybersecurity:** Enhancing my skills in security practices for web and network applications.
-- **AI/ML:** Getting started with machine learning models.
+- **Flutter:** Building cross-platform mobile apps
+- **AI/ML:** Getting started with machine learning models
+- **Kotlin, Swift**: Getting started with specified mobile-app developer like IOS and Android
 
 ## 🌱 I'm Currently Focused On
 
